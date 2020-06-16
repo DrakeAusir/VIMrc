@@ -1,0 +1,9 @@
+call plug#begin('~/.vimplug-plugins')
+
+" Runnare git dal terminale interno di Vim
+Plug 'tpope/vim-fugitive'
+
+" NerdTree
+Plug 'preservim/nerdtree'
+
+call plug#end()
